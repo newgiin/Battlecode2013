@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="teams"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/battlecode-client.jar"/>
+	<classpathentry kind="lib" path="lib/battlecode-server.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/thanh/workspace_eclipse/Battlecode2013/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/battlecode-player.jar"/>
+	<classpathentry kind="lib" path="lib/jogl.all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

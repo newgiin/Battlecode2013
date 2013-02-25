@@ -1,0 +1,3 @@
+- Handle compromised radio channels.
+- Encampment build order
+- Fix scouts trying to take already taken encampments, play on kleenex to see what I mean.
